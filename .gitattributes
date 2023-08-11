@@ -1,2 +1,4 @@
+BRATS/pretrained_weights/NN-Weights.h5 filter=lfs diff=lfs merge=lfs -text
+BRATS/saved_model/my_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 *.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 *.h5 filter=lfs diff=lfs merge=lfs -text
