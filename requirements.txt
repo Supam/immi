@@ -1,0 +1,8 @@
+SimpleITK
+tensorflow
+tensorflow_addons
+numpy
+matplotlib
+tqdm
+keras
+scikit-learn
